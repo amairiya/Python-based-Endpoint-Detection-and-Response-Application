@@ -1,2 +1,3 @@
-# Python-based-Endpoint-Detection-and-Response-Application
-python based application EDR
+## License
+
+This project is licensed under the Custom License. See the [LICENSE](LICENSE) file for details.
